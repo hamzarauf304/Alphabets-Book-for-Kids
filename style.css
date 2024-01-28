@@ -1,0 +1,38 @@
+/*@media screen and (max-width: 480px) {
+    body {
+      color: aqua;
+    }
+  }*/
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Main{
+    background-color: #f34235;
+    width: 100%;
+    position: fixed;
+    border-bottom: 2px solid black;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-stretch: extra-expanded;
+}
+.alphabets{
+    margin: 10.25px;
+    font-size: 2.5em;
+    display: inline;
+   
+}
+.alphabets:hover{
+    background-color: #35e6f3;
+    cursor: pointer;
+}
+
+.words{
+    font-size: 150px;
+    border: 2px solid #000000;
+    background-color: #f34235;
+    width: 82.9%;
+    padding: 3cm;
+}
